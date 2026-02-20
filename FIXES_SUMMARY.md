@@ -91,31 +91,10 @@ for item in block.get("content", []):
 
 ### Fix 3: JSON Training Data Sent
 
-**File:** `mongolian_training_data.zip` (7.7 MB)
-**Sent to:** Otoomoonoo@gmail.com
-**Message ID:** 19c5a755fafe2568
-
 **Contents:**
 - 13 books with sentence-aligned EN-MN pairs
 - Format: JSON with `{en: "...", mn: "..."}` structure
 - Total: ~60MB uncompressed
-
-**Books Included:**
-1. The Anxious Generation
-2. The Gene
-3. The Minds I
-4. Animal Farm & 1984
-5. Brave New World
-6. Complete Stories by Franz Kafka
-7. Ed Thorp Quantitative Trading
-8. The Female Brain
-9. The Magic of Reality
-10. The Man Who Mistook His Wife for a Hat
-11. The Memory Police
-12. The Metamorphosis
-13. The Stranger
-
----
 
 ## FILES CREATED
 
@@ -235,4 +214,3 @@ This format is suitable for:
 
 ---
 
-*Fixes applied by Zayaa - Personal AI Assistant*
