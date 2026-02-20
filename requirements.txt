@@ -1,0 +1,5 @@
+pymupdf
+fpdf2
+requests
+ebooklib
+lxml
